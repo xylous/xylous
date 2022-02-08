@@ -1,7 +1,6 @@
 ### Howdy!
 
-I do programming for a hobby. I mostly write things I find fun, or things that I
-need.
+I'm a hobbyist programmer. Aaand that's all you need to know.
 
 #### GitHub Stats
 
